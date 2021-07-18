@@ -1,0 +1,13 @@
+name: helloworld
+version: 0.1.0
+
+authors:
+  - astellon <22632787+astellon@users.noreply.github.com>
+
+targets:
+  helloworld:
+    main: src/helloworld.cr
+
+crystal: 1.0.0
+
+license: MIT
